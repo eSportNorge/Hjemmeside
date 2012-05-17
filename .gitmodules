@@ -1,0 +1,3 @@
+[submodule "core/cakephp"]
+	path = core/cakephp
+	url = https://github.com/cakephp/cakephp.git
